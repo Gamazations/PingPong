@@ -1,4 +1,3 @@
-## Ping Pong - A game by Fadi & Abdullah
 ## Ping Pong is a game where you have to get the ball past your opponents paddle. We coded that game-- however, we added a twist!
 ## In our version of Ping Pong, powerups exist that can change the score and you are able to play different modes-- play against a real 
 ## person, against a Bot we made, and even an "Impossible" difficulty. First to 7 points wins the game! Have fun!
